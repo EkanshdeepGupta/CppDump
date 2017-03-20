@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465334397 source:/home/ekansh/Code::Blocks/SDL Tutorials/SDL2/main.cpp
+	<SDL2/SDL.h>
+	<iostream>
+	<stdio.h>
+

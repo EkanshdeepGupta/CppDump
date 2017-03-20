@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1469024132 source:/home/ekansh/Code::Blocks/Misc/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1479756300 source:/home/ekansh/Code::Blocks/Misc/Misc/main.cpp
+	<iostream>
+

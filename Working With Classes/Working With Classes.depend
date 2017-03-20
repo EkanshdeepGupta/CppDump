@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1442829901 source:/home/ekansh/Code::Blocks/Working With Classes/SampleClass.cpp
+	"SampleClass.h"
+	<iostream>
+	"sampleClass2.h"
+
+1442829633 /home/ekansh/Code::Blocks/Working With Classes/SampleClass.h
+
+1442829743 source:/home/ekansh/Code::Blocks/Working With Classes/main.cpp
+	<iostream>
+	"SampleClass.h"
+	"sampleClass2.h"
+
+1442830008 /home/ekansh/Code::Blocks/Working With Classes/sampleClass2.h
+	"sampleClass2.h"
+	<iostream>
+	"SampleClass.h"
+
+1442830031 source:/home/ekansh/Code::Blocks/Working With Classes/sampleClass2.cpp
+	"sampleClass2.h"
+	<iostream>
+	"SampleClass.h"
+

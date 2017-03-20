@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1447959472 source:/home/ekansh/Code::Blocks/Hangman/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<ctype.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+

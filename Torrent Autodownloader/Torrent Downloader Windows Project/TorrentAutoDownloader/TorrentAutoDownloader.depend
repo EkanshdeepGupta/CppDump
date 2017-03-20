@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1464456730 source:e:\torrent downloader project\torrentdownloader source windows.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<cstring>
+	<ctime>
+	<windows.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439061138 source:/home/ekansh/Code::Blocks/Friday The Thirteenth/main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

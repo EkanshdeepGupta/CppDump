@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1464452490 source:e:\torrent downloader project\misc\main.cpp
+	<iostream>
+	<windows.h>
+	<cstring>
+	<string>
+	<fstream>
+	<stdio.h>
+

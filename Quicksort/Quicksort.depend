@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1462798939 source:/home/ekansh/Code::Blocks/Quicksort/main.cpp
+	<iostream>
+	<fstream>
+

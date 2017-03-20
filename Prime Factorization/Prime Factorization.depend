@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1439198344 source:/home/ekansh/Code::Blocks/Prime Factorization/main.cpp
+	<iostream>
+	<vector>
+

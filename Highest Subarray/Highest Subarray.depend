@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461601333 source:/home/ekansh/Code::Blocks/Highest Subarray/main.cpp
+	<iostream>
+	<vector>
+
